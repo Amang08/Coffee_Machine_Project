@@ -1,2 +1,2 @@
 # Coffee_Machine_Project
-This is a coffee Machine Project which I wrote for one of the assignments.
+https://github.com/Amang08/Coffee_Machine_Project
